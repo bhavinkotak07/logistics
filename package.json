@@ -12,6 +12,6 @@
     "http-message-parser": "0.0.20",
     "multer": "^1.1.0",
     "request": "^2.72.0"
-  },
+  }
   
 }
