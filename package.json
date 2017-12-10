@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Run in root of this repo:",
+  "main": "index.js",
+  "author": "Bhavin Kotak",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.16.2",
+    "http-message-parser": "0.0.20",
+    "multer": "^1.1.0",
+    "request": "^2.72.0"
+  },
+  
+}
