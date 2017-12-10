@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Bhavin Kotak",
   "license": "MIT",
+  "scripts": {
+    
+    "start": "node index.js"
+    
+  },
   "dependencies": {
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
